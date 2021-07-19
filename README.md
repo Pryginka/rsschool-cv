@@ -1,2 +1,2 @@
 # rsschool-cv
-https://pryginka.github.io/rsschool-cv/cv
+https://pryginka.github.io/rsschool-cv/
